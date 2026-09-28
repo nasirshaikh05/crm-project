@@ -1,0 +1,9 @@
+# Create a .claudeignore file and add:
+node_modules/
+dist/
+build/
+logs/
+*.log
+.env
+tests/             # (Ignore tests unless you are actively writing them)
+docs/
